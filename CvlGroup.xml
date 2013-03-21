@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
+<comps>
+        
+  <group>
+   <id>cvlbase</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1025</display_order>
+   <name>CVL Base Packages</name>
+   <description>Installs a set of standard Centos packages for the Characterisation Virtual Laboratory</description>
+    <packagelist>
+      <packagereq type="mandatory">epel-release</packagereq>
+      <packagereq type="mandatory">firefox</packagereq>
+      <packagereq type="mandatory">yum-utils</packagereq>
+      <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
+      <packagereq type="mandatory">fuse-sshfs</packagereq>
+      <packagereq type="mandatory">gvfs-fuse</packagereq>
+      <packagereq type="mandatory">wxPython</packagereq>
+    </packagelist>
+  </group>
+        
+  <group>
+   <id>cvlsystem</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1026</display_order>
+   <name>CVL System</name>
+   <description>Installs CVL desktop system</description>
+    <packagelist>
+      <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
+      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
+      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
+      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">glx-utils</packagereq>
+      <packagereq type="mandatory">hal</packagereq>
+      <packagereq type="mandatory">plymouth-system-theme</packagereq>
+      <packagereq type="mandatory">spice-vdagent</packagereq>
+      <packagereq type="mandatory">wacomexpresskeys</packagereq>
+      <packagereq type="mandatory">wdaemon</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-utils</packagereq>
+      <packagereq type="mandatory">xvattr</packagereq>
+      <packagereq type="mandatory">xfce-utils</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
+      <packagereq type="mandatory">NetworkManager-gnome</packagereq>
+      <packagereq type="mandatory">Terminal</packagereq>
+      <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">leafpad</packagereq>
+      <packagereq type="mandatory">openssh-askpass</packagereq>
+      <packagereq type="mandatory">orage</packagereq>
+      <packagereq type="mandatory">polkit-gnome</packagereq>
+      <packagereq type="mandatory">thunar-archive-plugin</packagereq>
+      <packagereq type="mandatory">thunar-volman</packagereq>
+      <packagereq type="mandatory">tumbler</packagereq>
+      <packagereq type="mandatory">xfce4-appfinder</packagereq>
+      <packagereq type="mandatory">xfce4-icon-theme</packagereq>
+      <packagereq type="mandatory">xfce4-mixer</packagereq>
+      <packagereq type="mandatory">xfce4-power-manager</packagereq>
+      <packagereq type="mandatory">xfce4-session-engines</packagereq>
+      <packagereq type="mandatory">xfwm4-theme-nodoka</packagereq>
+      <packagereq type="mandatory">xfwm4-themes</packagereq>
+      <packagereq type="mandatory">pinentry-gtk</packagereq>
+      <packagereq type="mandatory">bitmap-console-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-15-75dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-75dpi</packagereq>
+      <packagereq type="mandatory">libfontenc</packagereq>
+      <packagereq type="mandatory">libXfont</packagereq>
+      <packagereq type="mandatory">ghostscript-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-misc</packagereq>
+      <packagereq type="mandatory">bitmap-miscfixed-fonts</packagereq>
+      <packagereq type="mandatory">bitmap-fonts-compat</packagereq>
+      <packagereq type="mandatory">tkinter</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-14-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-2-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-75dpi</packagereq>
+      <packagereq type="mandatory">fontconfig</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ethiopic</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
+      <packagereq type="mandatory">texlive-texmf-fonts</packagereq>
+      <packagereq type="mandatory">bitmap-fangsongti-fonts</packagereq>
+      <packagereq type="mandatory">texlive-texmf-errata-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-14-75dpi</packagereq>
+      <packagereq type="mandatory">fontconfig-devel</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-Type1</packagereq>
+      <packagereq type="mandatory">fontpackages-filesystem</packagereq>
+      <packagereq type="mandatory">bitmap-lucida-typewriter-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
+      <packagereq type="mandatory">rw-fonts</packagereq>
+      <packagereq type="mandatory">bitmap-fixed-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
+      <packagereq type="mandatory">gnome-panel</packagereq>
+      <packagereq type="mandatory">oxygen-icon-theme</packagereq>
+      <packagereq type="mandatory">fltk</packagereq>
+      <packagereq type="mandatory">gettext-libs</packagereq>
+      <packagereq type="mandatory">gettext</packagereq>
+      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-util-macros</packagereq>
+      <packagereq type="mandatory">libXinerama</packagereq>
+      <packagereq type="mandatory">libdrm</packagereq>
+      <packagereq type="mandatory">tk</packagereq>
+      <packagereq type="mandatory">wxPython</packagereq>
+      <packagereq type="mandatory">python-devel</packagereq>
+      <packagereq type="mandatory">python-setuptools</packagereq>
+      <packagereq type="mandatory">libjpeg</packagereq>
+      <packagereq type="mandatory">libXext-devel</packagereq>
+      <packagereq type="mandatory">google-chrome-stable</packagereq>
+      <packagereq type="mandatory">cvl-libjpeg1_2_0</packagereq>
+      <packagereq type="mandatory">cvl-turbovnc1_1</packagereq>
+      <packagereq type="mandatory">cvl-virtualgl2_3_1</packagereq>
+      <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
+      <packagereq type="mandatory">pexpect</packagereq>
+      <packagereq type="mandatory">cvl-cvl1_0</packagereq>
+    </packagelist>
+  </group>
+
+  <group>
+   <id>cvlsystemextension</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1027</display_order>
+   <name>CVL System Extension</name>
+   <description>Installs CVL desktop extension for machines without GPU</description>
+    <packagelist>
+      <packagereq type="mandatory">cvl-mesalib9_1</packagereq>
+    </packagelist>
+  </group>
+        
+  <group>
+   <id>CvlBuildSystem</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1033</display_order>
+   <name>CVL Build System</name>
+   <description>Installs CVL build system</description>
+    <packagelist>
+      <packagereq type="mandatory">make</packagereq>
+      <packagereq type="mandatory">gcc</packagereq>
+      <packagereq type="mandatory">perl</packagereq>
+      <packagereq type="mandatory">gcc-c++</packagereq>
+      <packagereq type="mandatory">gcc-java</packagereq>
+      <packagereq type="mandatory">gcc-gfortran</packagereq>
+      <packagereq type="mandatory">bzip2</packagereq>
+      <packagereq type="mandatory">autoconf</packagereq>
+      <packagereq type="mandatory">m4</packagereq>
+      <packagereq type="mandatory">ant</packagereq>
+      <packagereq type="mandatory">binutils</packagereq>
+      <packagereq type="mandatory">bison</packagereq>
+      <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="mandatory">glibc-devel</packagereq>
+      <packagereq type="mandatory">gmp</packagereq>
+      <packagereq type="mandatory">gnuplot</packagereq>
+      <packagereq type="mandatory">gperf</packagereq>
+      <packagereq type="mandatory">kernel-devel</packagereq>
+      <packagereq type="mandatory">libexif-devel</packagereq>
+      <packagereq type="mandatory">libgtk-java</packagereq>
+      <packagereq type="mandatory">libjpeg-devel</packagereq>
+      <packagereq type="mandatory">libmng-devel</packagereq>
+      <packagereq type="mandatory">libpng-devel</packagereq>
+      <packagereq type="mandatory">libstdc++-devel</packagereq>
+      <packagereq type="mandatory">libtermcap-devel</packagereq>
+      <packagereq type="mandatory">libtool</packagereq>
+      <packagereq type="mandatory">libXaw-devel</packagereq>
+      <packagereq type="mandatory">libXi-devel</packagereq>
+      <packagereq type="mandatory">libXmu-devel</packagereq>
+      <packagereq type="mandatory">libXScrnSaver-devel</packagereq>
+      <packagereq type="mandatory">libXt-devel</packagereq>
+      <packagereq type="mandatory">libXv-devel</packagereq>
+      <packagereq type="mandatory">libXxf86vm-devel</packagereq>
+      <packagereq type="mandatory">ltrace</packagereq>
+      <packagereq type="mandatory">mutt</packagereq>
+      <packagereq type="mandatory">ncurses-devel</packagereq>
+      <packagereq type="mandatory">net-snmp</packagereq>
+      <packagereq type="mandatory">nfs-utils</packagereq>
+      <packagereq type="mandatory">ntp</packagereq>
+      <packagereq type="mandatory">OpenIPMI-libs</packagereq>
+      <packagereq type="mandatory">OpenIPMI-tools</packagereq>
+      <packagereq type="mandatory">openmotif22</packagereq>
+      <packagereq type="mandatory">openmotif-devel</packagereq>
+      <packagereq type="mandatory">openssh-server</packagereq>
+      <packagereq type="mandatory">openssl-devel</packagereq>
+      <packagereq type="mandatory">pam-devel</packagereq>
+      <packagereq type="mandatory">pcre-devel</packagereq>
+      <packagereq type="mandatory">readline-devel</packagereq>
+      <packagereq type="mandatory">rsh</packagereq>
+      <packagereq type="mandatory">sysstat</packagereq>
+      <packagereq type="mandatory">tcl-devel</packagereq>
+      <packagereq type="mandatory">tcsh</packagereq>
+      <packagereq type="mandatory">tftp</packagereq>
+      <packagereq type="mandatory">tk-devel</packagereq>
+      <packagereq type="mandatory">tkinter</packagereq>
+      <packagereq type="mandatory">util-linux</packagereq>
+      <packagereq type="mandatory">valgrind-devel</packagereq>
+      <packagereq type="mandatory">valgrind</packagereq>
+      <packagereq type="mandatory">vim-enhanced</packagereq>
+      <packagereq type="mandatory">vim-X11</packagereq>
+      <packagereq type="mandatory">libX11-devel</packagereq>
+      <packagereq type="mandatory">xinetd</packagereq>
+      <packagereq type="mandatory">yum-utils</packagereq>
+      <packagereq type="mandatory">subversion</packagereq>
+      <packagereq type="mandatory">nasm</packagereq>
+      <packagereq type="mandatory">libXcursor</packagereq>
+      <packagereq type="mandatory">libXcursor-devel</packagereq>
+      <packagereq type="mandatory">rsync</packagereq>
+      <packagereq type="mandatory">libXtst-devel</packagereq>
+      <packagereq type="mandatory">libpciaccess-devel</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-source</packagereq>
+      <packagereq type="mandatory">xorg-x11-xtrans-devel</packagereq>
+      <packagereq type="mandatory">libxkbfile-devel</packagereq>
+      <packagereq type="mandatory">libXfont-devel</packagereq>
+      <packagereq type="mandatory">libdrm-devel</packagereq>
+      <packagereq type="mandatory">fltk</packagereq>
+      <packagereq type="mandatory">fltk-devel</packagereq>
+      <packagereq type="mandatory">libXinerama-devel</packagereq>
+      <packagereq type="mandatory">gettext-devel</packagereq>
+      <packagereq type="mandatory">gettext-libs</packagereq>
+      <packagereq type="mandatory">gettext</packagereq>
+      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-util-macros</packagereq>
+      <packagereq type="mandatory">pixman-devel</packagereq>
+      <packagereq type="mandatory">openmotif-devel</packagereq>
+      <packagereq type="mandatory">gsl-devel</packagereq>
+      <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
+      <packagereq type="mandatory">cvl-cvl1_0</packagereq>
+      <packagereq type="mandatory">cvl-masterbuild2_8_10</packagereq>
+      <packagereq type="mandatory">cvl-libxcb1_9</packagereq>
+      <packagereq type="mandatory">cvl-libxcbproto1_8</packagereq>
+    </packagelist>
+  </group>
+  <group>
+   <id>CvlStructuralBiologyDriver</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1029</display_order>
+   <name>CVL Structural Biology Driver</name>
+   <description>Installs structural biology driver for Characterisation Virtual Laboratory</description>
+    <packagelist>
+      <packagereq type="mandatory">glibc</packagereq>
+      <packagereq type="mandatory">libXt</packagereq>
+      <packagereq type="mandatory">openmotif</packagereq>
+      <packagereq type="mandatory">python-pmw</packagereq>
+      <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
+      <packagereq type="mandatory">cvl-spider20_12</packagereq>
+      <packagereq type="mandatory">cvl-xmipp3_0</packagereq>
+      <packagereq type="mandatory">cvl-chimera1_5_3</packagereq>
+      <packagereq type="mandatory">cvl-chimera1_6_2</packagereq>
+      <packagereq type="mandatory">cvl-relion1_1</packagereq>
+      <packagereq type="mandatory">cvl-eman22_06</packagereq>
+      <packagereq type="mandatory">cvl-pymol1_5_0_1</packagereq>
+      <packagereq type="mandatory">cvl-ccp46_3</packagereq>
+    </packagelist>
+  </group>
+  <group>
+   <id>CvlGeneralImagingTools</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1028</display_order>
+   <name>CVL General Imaging Tools</name>
+   <description>Installs general imaging tools for Characterisation Virtual Laboratory</description>
+    <packagelist>
+      <packagereq type="mandatory">cvl-imagej1_46</packagereq>
+      <packagereq type="mandatory">cvl-massive-preferences0_0_2</packagereq>
+      <packagereq type="mandatory">xfce4-xfapplet-plugin</packagereq>
+      <packagereq type="mandatory">cvl-pysshfs0_1</packagereq>
+      <packagereq type="mandatory">cvl-visbenchmark1_0</packagereq>
+    </packagelist>
+  </group>
+  <group>
+   <id>CvlNeuroimaging</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1030</display_order>
+   <name>CVL Neuroimaging Driver</name>
+   <description>Installs neuroimaging driver tools for Characterisation Virtual Laboratory</description>
+    <packagelist>
+      <packagereq type="mandatory">cvl-fsl5_0_0</packagereq>
+    </packagelist>
+  </group>
+  <group>
+   <id>CvlEnergyMaterialsAtom</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1031</display_order>
+   <name>CVL Energy Materials Atom Driver</name>
+   <description>Installs Energy Materials atom driver tools for Characterisation Virtual Laboratory</description>
+    <packagelist>
+    </packagelist>
+  </group>
+  <group>
+   <id>CvlEnergyMaterialsXray</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1032</display_order>
+   <name>CVL Energy Materials Xray Driver</name>
+   <description>Installs Energy Materials xray driver tools for Characterisation Virtual Laboratory</description>
+    <packagelist>
+    </packagelist>
+  </group>
+
+  <group>
+   <id>cvlsystemoldextension</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1035</display_order>
+   <name>CVL System Old Extension</name>
+   <description>Installs CVL desktop extension for machines without GPU</description>
+    <packagelist>
+      <packagereq type="mandatory">mesa-libGLU</packagereq>
+      <packagereq type="mandatory">mesa-libGL</packagereq>
+      <packagereq type="mandatory">mesa-dri-drivers</packagereq>
+      <packagereq type="mandatory">cvl-tigervnc1_2_0</packagereq>
+    </packagelist>
+  </group>
+
+</comps>
