@@ -126,6 +126,7 @@
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">zip</packagereq>
       <packagereq type="mandatory">unzip</packagereq>
+      <packagereq type="mandatory">file-roller</packagereq>
     </packagelist>
   </group>
 
