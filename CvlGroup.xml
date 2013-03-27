@@ -124,6 +124,8 @@
       <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
       <packagereq type="mandatory">pexpect</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
+      <packagereq type="mandatory">zip</packagereq>
+      <packagereq type="mandatory">unzip</packagereq>
     </packagelist>
   </group>
 
@@ -235,6 +237,7 @@
       <packagereq type="mandatory">gsl-devel</packagereq>
       <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
+      <packagereq type="mandatory">cvl-turbovnc1_1</packagereq>
       <packagereq type="mandatory">cvl-masterbuild2_8_10</packagereq>
       <packagereq type="mandatory">cvl-libxcb1_9</packagereq>
       <packagereq type="mandatory">cvl-libxcbproto1_8</packagereq>
