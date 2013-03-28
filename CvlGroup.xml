@@ -127,6 +127,8 @@
       <packagereq type="mandatory">zip</packagereq>
       <packagereq type="mandatory">unzip</packagereq>
       <packagereq type="mandatory">file-roller</packagereq>
+      <packagereq type="mandatory">evince</packagereq>
+      <packagereq type="mandatory">eog</packagereq>
     </packagelist>
   </group>
 
