@@ -238,6 +238,7 @@
       <packagereq type="mandatory">pixman-devel</packagereq>
       <packagereq type="mandatory">openmotif-devel</packagereq>
       <packagereq type="mandatory">gsl-devel</packagereq>
+      <packagereq type="mandatory">unixODBC-devel</packagereq>
       <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">cvl-turbovnc1_1</packagereq>
