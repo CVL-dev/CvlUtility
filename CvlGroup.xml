@@ -17,6 +17,7 @@
       <packagereq type="mandatory">fuse-sshfs</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">wxPython</packagereq>
+      <packagereq type="mandatory">fail2ban</packagereq>
     </packagelist>
   </group>
         
