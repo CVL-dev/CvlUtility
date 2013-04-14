@@ -240,6 +240,17 @@
       <packagereq type="mandatory">openmotif-devel</packagereq>
       <packagereq type="mandatory">gsl-devel</packagereq>
       <packagereq type="mandatory">unixODBC-devel</packagereq>
+      <packagereq type="mandatory">wxGTK-devel</packagereq>
+      <packagereq type="mandatory">libxml2-devel</packagereq>
+      <packagereq type="mandatory">ftgl-devel</packagereq>
+      <packagereq type="mandatory">qhull-devel</packagereq>
+      <packagereq type="mandatory">mathgl-devel</packagereq>
+      <packagereq type="mandatory">qt-devel</packagereq>
+      <packagereq type="mandatory">hdf5-devel</packagereq>
+      <packagereq type="mandatory">hdf-devel</packagereq>
+      <packagereq type="mandatory">freeglut-devel</packagereq>
+      <packagereq type="mandatory">ImageMagick-c++-devel</packagereq>
+      <packagereq type="mandatory">ImageMagick-devel</packagereq>
       <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">cvl-turbovnc1_1</packagereq>
@@ -305,8 +316,51 @@
    <name>CVL Energy Materials Atom Driver</name>
    <description>Installs Energy Materials atom driver tools for Characterisation Virtual Laboratory</description>
     <packagelist>
+      <packagereq type="mandatory">unixODBC</packagereq>
+      <packagereq type="mandatory">wxGTK-gl</packagereq>
+      <packagereq type="mandatory">wxPython</packagereq>
+      <packagereq type="mandatory">wxGTK-media</packagereq>
+      <packagereq type="mandatory">wxpropgrid</packagereq>
+      <packagereq type="mandatory">wxBase</packagereq>
+      <packagereq type="mandatory">wxGTK</packagereq>
+      <packagereq type="mandatory">libxml2-python</packagereq>
+      <packagereq type="mandatory">xmlrpc-c-client</packagereq>
+      <packagereq type="mandatory">xml-commons-resolver</packagereq>
+      <packagereq type="mandatory">xmlrpc-c</packagereq>
+      <packagereq type="mandatory">xml-common</packagereq>
+      <packagereq type="mandatory">xml-commons-apis</packagereq>
+      <packagereq type="mandatory">libxml2</packagereq>
+      <packagereq type="mandatory">ftgl</packagereq>
+      <packagereq type="mandatory">qhull</packagereq>
+      <packagereq type="mandatory">mathgl</packagereq>
+      <packagereq type="mandatory">qt-sqlite</packagereq>
+      <packagereq type="mandatory">qt</packagereq>
+      <packagereq type="mandatory">qt-x11</packagereq>
+      <packagereq type="mandatory">qt3</packagereq>
+      <packagereq type="mandatory">hdf</packagereq>
+      <packagereq type="mandatory">hdf5</packagereq>
+      <packagereq type="mandatory">hdf5-static</packagereq>
+      <packagereq type="mandatory">freeglut</packagereq>
+      <packagereq type="mandatory">ImageMagick</packagereq>
+      <packagereq type="mandatory">ImageMagick-c++</packagereq>
+      <packagereq type="mandatory">cvl-3daprecon0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-3depict0_0_12</packagereq>
+      <packagereq type="mandatory">cvl-caw0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-effoff0_2_0</packagereq>
+      <packagereq type="mandatory">cvl-emap-galaxy0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-emap-helpshortcuts0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-levelset0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
+      <packagereq type="mandatory">cvl-mrf0_2_0</packagereq>
+      <packagereq type="mandatory">cvl-nn0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-posgen0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-posminus0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-rdf-kd0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-r-launcher0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
     </packagelist>
   </group>
+  
   <group>
    <id>CvlEnergyMaterialsXray</id>
    <default>false</default>
