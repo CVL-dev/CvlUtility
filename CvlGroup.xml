@@ -357,7 +357,6 @@
       <packagereq type="mandatory">cvl-posminus0_2_1</packagereq>
       <packagereq type="mandatory">cvl-rdf-kd0_0_1</packagereq>
       <packagereq type="mandatory">cvl-r-launcher0_0_1</packagereq>
-      <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
     </packagelist>
   </group>
   
