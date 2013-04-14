@@ -130,6 +130,10 @@
       <packagereq type="mandatory">file-roller</packagereq>
       <packagereq type="mandatory">evince</packagereq>
       <packagereq type="mandatory">eog</packagereq>
+      <packagereq type="mandatory">giflib</packagereq>
+      <packagereq type="mandatory">freeglut</packagereq>
+      <packagereq type="mandatory">hdf5</packagereq>
+      <packagereq type="mandatory">gsl</packagereq>
     </packagelist>
   </group>
 
@@ -317,6 +321,7 @@
    <description>Installs Energy Materials atom driver tools for Characterisation Virtual Laboratory</description>
     <packagelist>
       <packagereq type="mandatory">unixODBC</packagereq>
+      <packagereq type="mandatory">giflib</packagereq>
       <packagereq type="mandatory">wxGTK-gl</packagereq>
       <packagereq type="mandatory">wxPython</packagereq>
       <packagereq type="mandatory">wxGTK-media</packagereq>
@@ -339,7 +344,6 @@
       <packagereq type="mandatory">qt3</packagereq>
       <packagereq type="mandatory">hdf</packagereq>
       <packagereq type="mandatory">hdf5</packagereq>
-      <packagereq type="mandatory">hdf5-static</packagereq>
       <packagereq type="mandatory">freeglut</packagereq>
       <packagereq type="mandatory">ImageMagick</packagereq>
       <packagereq type="mandatory">ImageMagick-c++</packagereq>
