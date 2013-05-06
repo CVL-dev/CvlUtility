@@ -389,5 +389,116 @@
       <packagereq type="mandatory">cvl-tigervnc1_2_0</packagereq>
     </packagelist>
   </group>
+  
+  <group>
+   <id>cvldesktop</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1036</display_order>
+   <name>CVL Desktop</name>
+   <description>Installs CVL desktop V2</description>
+    <packagelist>
+      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
+      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
+      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">glx-utils</packagereq>
+      <packagereq type="mandatory">hal</packagereq>
+      <packagereq type="mandatory">plymouth-system-theme</packagereq>
+      <packagereq type="mandatory">spice-vdagent</packagereq>
+      <packagereq type="mandatory">wacomexpresskeys</packagereq>
+      <packagereq type="mandatory">wdaemon</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-utils</packagereq>
+      <packagereq type="mandatory">xvattr</packagereq>
+      <packagereq type="mandatory">xfce-utils</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
+      <packagereq type="mandatory">NetworkManager-gnome</packagereq>
+      <packagereq type="mandatory">Terminal</packagereq>
+      <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">leafpad</packagereq>
+      <packagereq type="mandatory">openssh-askpass</packagereq>
+      <packagereq type="mandatory">orage</packagereq>
+      <packagereq type="mandatory">polkit-gnome</packagereq>
+      <packagereq type="mandatory">thunar-archive-plugin</packagereq>
+      <packagereq type="mandatory">thunar-volman</packagereq>
+      <packagereq type="mandatory">tumbler</packagereq>
+      <packagereq type="mandatory">xfce4-appfinder</packagereq>
+      <packagereq type="mandatory">xfce4-icon-theme</packagereq>
+      <packagereq type="mandatory">xfce4-mixer</packagereq>
+      <packagereq type="mandatory">xfce4-power-manager</packagereq>
+      <packagereq type="mandatory">xfce4-session-engines</packagereq>
+      <packagereq type="mandatory">xfwm4-theme-nodoka</packagereq>
+      <packagereq type="mandatory">xfwm4-themes</packagereq>
+      <packagereq type="mandatory">pinentry-gtk</packagereq>
+      <packagereq type="mandatory">bitmap-console-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-15-75dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-75dpi</packagereq>
+      <packagereq type="mandatory">libfontenc</packagereq>
+      <packagereq type="mandatory">libXfont</packagereq>
+      <packagereq type="mandatory">ghostscript-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-misc</packagereq>
+      <packagereq type="mandatory">bitmap-miscfixed-fonts</packagereq>
+      <packagereq type="mandatory">bitmap-fonts-compat</packagereq>
+      <packagereq type="mandatory">tkinter</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-14-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-2-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-15-100dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-75dpi</packagereq>
+      <packagereq type="mandatory">fontconfig</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ethiopic</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
+      <packagereq type="mandatory">texlive-texmf-fonts</packagereq>
+      <packagereq type="mandatory">bitmap-fangsongti-fonts</packagereq>
+      <packagereq type="mandatory">texlive-texmf-errata-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-2-75dpi</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-14-75dpi</packagereq>
+      <packagereq type="mandatory">fontconfig-devel</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-Type1</packagereq>
+      <packagereq type="mandatory">fontpackages-filesystem</packagereq>
+      <packagereq type="mandatory">bitmap-lucida-typewriter-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-cyrillic</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
+      <packagereq type="mandatory">rw-fonts</packagereq>
+      <packagereq type="mandatory">bitmap-fixed-fonts</packagereq>
+      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
+      <packagereq type="mandatory">gnome-panel</packagereq>
+      <packagereq type="mandatory">oxygen-icon-theme</packagereq>
+      <packagereq type="mandatory">fltk</packagereq>
+      <packagereq type="mandatory">gettext-libs</packagereq>
+      <packagereq type="mandatory">gettext</packagereq>
+      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-util-macros</packagereq>
+      <packagereq type="mandatory">libXinerama</packagereq>
+      <packagereq type="mandatory">libdrm</packagereq>
+      <packagereq type="mandatory">tk</packagereq>
+      <packagereq type="mandatory">wxPython</packagereq>
+      <packagereq type="mandatory">python-devel</packagereq>
+      <packagereq type="mandatory">python-setuptools</packagereq>
+      <packagereq type="mandatory">libjpeg</packagereq>
+      <packagereq type="mandatory">libXext-devel</packagereq>
+      <packagereq type="mandatory">google-chrome-stable</packagereq>
+      <packagereq type="mandatory">pexpect</packagereq>
+      <packagereq type="mandatory">zip</packagereq>
+      <packagereq type="mandatory">unzip</packagereq>
+      <packagereq type="mandatory">file-roller</packagereq>
+      <packagereq type="mandatory">evince</packagereq>
+      <packagereq type="mandatory">eog</packagereq>
+      <packagereq type="mandatory">giflib</packagereq>
+      <packagereq type="mandatory">freeglut</packagereq>
+      <packagereq type="mandatory">hdf5</packagereq>
+      <packagereq type="mandatory">gsl</packagereq>
+    </packagelist>
+  </group>
+
 
 </comps>
