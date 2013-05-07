@@ -315,6 +315,7 @@
       <packagereq type="mandatory">cvl-netcdf4_1_1</packagereq>
       <packagereq type="mandatory">cvl-nifticlib2_0_0</packagereq>
       <packagereq type="mandatory">cvl-minc2_1_0</packagereq>
+      <packagereq type="mandatory">cvl-tissuestack1_1</packagereq>
     </packagelist>
   </group>
   <group>
