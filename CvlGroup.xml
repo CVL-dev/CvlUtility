@@ -310,6 +310,11 @@
    <description>Installs neuroimaging driver tools for Characterisation Virtual Laboratory</description>
     <packagelist>
       <packagereq type="mandatory">cvl-fsl5_0_0</packagereq>
+      <packagereq type="mandatory">cvl-graphicsmagick1_3_18</packagereq>
+      <packagereq type="mandatory">cvl-hdf51_8_5</packagereq>
+      <packagereq type="mandatory">cvl-netcdf4_1_1</packagereq>
+      <packagereq type="mandatory">cvl-nifticlib2_0_0</packagereq>
+      <packagereq type="mandatory">cvl-minc2_1_0</packagereq>
     </packagelist>
   </group>
   <group>
