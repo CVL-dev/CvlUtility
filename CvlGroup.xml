@@ -134,6 +134,7 @@
       <packagereq type="mandatory">freeglut</packagereq>
       <packagereq type="mandatory">hdf5</packagereq>
       <packagereq type="mandatory">gsl</packagereq>
+      <packagereq type="mandatory">mathgl</packagereq>
     </packagelist>
   </group>
 
@@ -359,14 +360,17 @@
       <packagereq type="mandatory">cvl-effoff0_2_0</packagereq>
       <packagereq type="mandatory">cvl-emap-galaxy0_0_1</packagereq>
       <packagereq type="mandatory">cvl-emap-helpshortcuts0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-fouriertransform0_2_2</packagereq>
       <packagereq type="mandatory">cvl-levelset0_0_1</packagereq>
       <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
       <packagereq type="mandatory">cvl-mrf0_2_0</packagereq>
       <packagereq type="mandatory">cvl-nn0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-objexport0_0_1</packagereq>
       <packagereq type="mandatory">cvl-posgen0_0_1</packagereq>
       <packagereq type="mandatory">cvl-posminus0_2_1</packagereq>
       <packagereq type="mandatory">cvl-rdf-kd0_0_1</packagereq>
       <packagereq type="mandatory">cvl-r-launcher0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-xrngeditor0_0_1</packagereq>
     </packagelist>
   </group>
   
