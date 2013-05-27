@@ -23,21 +23,9 @@
    <name>CVL Base Packages</name>
    <description>Installs a set of standard Centos packages for the Characterisation Virtual Laboratory</description>
     <packagelist>
+      <packagereq type="mandatory">libXaw</packagereq>
+      <packagereq type="mandatory">libXpm</packagereq>
       <packagereq type="mandatory">Terminal</packagereq>
-      <packagereq type="mandatory">polkit-gnome</packagereq>
-      <packagereq type="mandatory">tumbler</packagereq>
-      <packagereq type="mandatory">pinentry-gtk</packagereq>
-      <packagereq type="mandatory">bitmap-console-fonts</packagereq>
-      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-15-75dpi</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-ISO8859-1-75dpi</packagereq>
-      <packagereq type="mandatory">libfontenc</packagereq>
-      <packagereq type="mandatory">libXfont</packagereq>
-      <packagereq type="mandatory">ghostscript-fonts</packagereq>
-      <packagereq type="mandatory">xorg-x11-fonts-misc</packagereq>
-      <packagereq type="mandatory">bitmap-miscfixed-fonts</packagereq>
-      <packagereq type="mandatory">bitmap-fonts-compat</packagereq>
-      <packagereq type="mandatory">tkinter</packagereq>
       <packagereq type="mandatory">xorg-x11-fonts-ISO8859-14-100dpi</packagereq>
       <packagereq type="mandatory">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="mandatory">xorg-x11-fonts-ISO8859-2-100dpi</packagereq>
@@ -110,7 +98,6 @@
       <packagereq type="mandatory">gnome-python2</packagereq>
       <packagereq type="mandatory">gnome-themes</packagereq>
       <packagereq type="mandatory">gnome-menus</packagereq>
-      <packagereq type="mandatory">polkit-gnome</packagereq>
       <packagereq type="mandatory">gnome-system-monitor</packagereq>
       <packagereq type="mandatory">libgnome</packagereq>
       <packagereq type="mandatory">gnome-python2-gnome</packagereq>
