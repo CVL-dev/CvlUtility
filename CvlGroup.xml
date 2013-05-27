@@ -390,6 +390,7 @@
       <packagereq type="mandatory">cvl-masterbuild2_8_10</packagereq>
       <packagereq type="mandatory">cvl-libxcb1_9</packagereq>
       <packagereq type="mandatory">cvl-libxcbproto1_8</packagereq>
+      <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
     </packagelist>
   </group>
   <group>
