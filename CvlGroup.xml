@@ -401,15 +401,23 @@
    <name>CVL Structural Biology Driver</name>
    <description>Installs structural biology driver for Characterisation Virtual Laboratory</description>
     <packagelist>
-      <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
-      <packagereq type="mandatory">cvl-spider20_12</packagereq>
-      <packagereq type="mandatory">cvl-xmipp3_0</packagereq>
-      <packagereq type="mandatory">cvl-chimera1_5_3</packagereq>
-      <packagereq type="mandatory">cvl-chimera1_6_2</packagereq>
+      <packagereq type="mandatory">cvl-ccp46_3_0_019</packagereq>
+      <packagereq type="mandatory">cvl-chimera1_7</packagereq>
+      <packagereq type="mandatory">cvl-eman1_9</packagereq>
+      <packagereq type="mandatory">cvl-eman2_06</packagereq>
+      <packagereq type="mandatory">cvl-fijimadison</packagereq>
+      <packagereq type="mandatory">cvl-hpc-tools0_0_4</packagereq>
+      <packagereq type="mandatory">cvl-imagej1_46</packagereq>
+      <packagereq type="mandatory">cvl-imagic1_0</packagereq>
+      <packagereq type="mandatory">cvl-imod4_5_3</packagereq>
+      <packagereq type="mandatory">cvl-mytardis0_1</packagereq>
+      <packagereq type="mandatory">cvl-phenixphenix-1_8_2-1309</packagereq>
       <packagereq type="mandatory">cvl-relion1_1</packagereq>
-      <packagereq type="mandatory">cvl-eman22_06</packagereq>
-      <packagereq type="mandatory">cvl-pymol1_5_0_1</packagereq>
-      <packagereq type="mandatory">cvl-ccp46_3</packagereq>
+      <packagereq type="mandatory">cvl-shelxle1_0_609</packagereq>
+      <packagereq type="mandatory">cvl-spider21_01</packagereq>
+      <packagereq type="mandatory">cvl-tiltpicker2_0b13</packagereq>
+      <packagereq type="mandatory">cvl-vmd1_9_1</packagereq>
+      <packagereq type="mandatory">cvl-xmipp3_0</packagereq>
     </packagelist>
   </group>
   <group>
