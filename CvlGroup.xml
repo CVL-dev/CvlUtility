@@ -23,6 +23,7 @@
    <name>CVL Base Packages</name>
    <description>Installs a set of standard Centos packages for the Characterisation Virtual Laboratory</description>
     <packagelist>
+      <packagereq type="mandatory">libX11</packagereq>
       <packagereq type="mandatory">libXaw</packagereq>
       <packagereq type="mandatory">libXpm</packagereq>
       <packagereq type="mandatory">Terminal</packagereq>
@@ -196,6 +197,33 @@
       <packagereq type="mandatory">freeglut</packagereq>
       <packagereq type="mandatory">ImageMagick</packagereq>
       <packagereq type="mandatory">ImageMagick-c++</packagereq>
+      <packagereq type="mandatory">atlas</packagereq>
+      <packagereq type="mandatory">enchant</packagereq>
+      <packagereq type="mandatory">gedit</packagereq>
+      <packagereq type="mandatory">gtksourceview2</packagereq>
+      <packagereq type="mandatory">java-1.6.0-openjdk</packagereq>
+      <packagereq type="mandatory">jline</packagereq>
+      <packagereq type="mandatory">libICE</packagereq>
+      <packagereq type="mandatory">libSM</packagereq>
+      <packagereq type="mandatory">libXau</packagereq>
+      <packagereq type="mandatory">libXext</packagereq>
+      <packagereq type="mandatory">libXi</packagereq>
+      <packagereq type="mandatory">libXp</packagereq>
+      <packagereq type="mandatory">libXtst</packagereq>
+      <packagereq type="mandatory">libuuid</packagereq>
+      <packagereq type="mandatory">libxcb</packagereq>
+      <packagereq type="mandatory">nss-softokn-freebl</packagereq>
+      <packagereq type="mandatory">numactl</packagereq>
+      <packagereq type="mandatory">numpy</packagereq>
+      <packagereq type="mandatory">numpy-f2py</packagereq>
+      <packagereq type="mandatory">pygtksourceview</packagereq>
+      <packagereq type="mandatory">python-nose</packagereq>
+      <packagereq type="mandatory">rhino</packagereq>
+      <packagereq type="mandatory">scipy</packagereq>
+      <packagereq type="mandatory">suitesparse</packagereq>
+      <packagereq type="mandatory">tzdata-java</packagereq>
+      <packagereq type="mandatory">libblkid</packagereq>
+      <packagereq type="mandatory">util-linux-ng</packagereq>
     </packagelist>
   </group>
         
@@ -225,6 +253,14 @@
       <packagereq type="mandatory">cvl-virtualgl2_3_1</packagereq>
       <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
+      <packagereq type="mandatory">cvl-ftgl2_1_3</packagereq>
+      <packagereq type="mandatory">cvl-glew1_5_5</packagereq>
+      <packagereq type="mandatory">cvl-openmpi1_2_9</packagereq>
+      <packagereq type="mandatory">cvl-pil1_1_7</packagereq>
+      <packagereq type="mandatory">cvl-python2_6_8</packagereq>
+      <packagereq type="mandatory">cvl-qt4_6_2</packagereq>
+      <packagereq type="mandatory">cvl-wxgtk2_8_12</packagereq>
+      <packagereq type="mandatory">cvl-wxpython2_8_12_1</packagereq>
     </packagelist>
   </group>
         
