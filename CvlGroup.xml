@@ -224,6 +224,9 @@
       <packagereq type="mandatory">tzdata-java</packagereq>
       <packagereq type="mandatory">libblkid</packagereq>
       <packagereq type="mandatory">util-linux-ng</packagereq>
+      <packagereq type="mandatory">gd</packagereq>
+      <packagereq type="mandatory">graphviz</packagereq>
+      <packagereq type="mandatory">openssl098e</packagereq>
     </packagelist>
   </group>
         
@@ -446,21 +449,26 @@
    <description>Installs Energy Materials atom driver tools for Characterisation Virtual Laboratory</description>
     <packagelist>
       <packagereq type="mandatory">cvl-3daprecon0_0_1</packagereq>
-      <packagereq type="mandatory">cvl-3depict0_0_12</packagereq>
-      <packagereq type="mandatory">cvl-caw0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-3depict0_0_13</packagereq>
+      <packagereq type="mandatory">cvl-caw0_2_3</packagereq>
+      <packagereq type="mandatory">cvl-crystallography0_0_1</packagereq>
       <packagereq type="mandatory">cvl-effoff0_2_0</packagereq>
-      <packagereq type="mandatory">cvl-emap-galaxy0_0_1</packagereq>
-      <packagereq type="mandatory">cvl-emap-helpshortcuts0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-emap-galaxy-shortcut0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-emap-wiki-shortcut0_0_1</packagereq>
       <packagereq type="mandatory">cvl-fouriertransform0_2_2</packagereq>
-      <packagereq type="mandatory">cvl-levelset0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-levelset0_0_2</packagereq>
       <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
-      <packagereq type="mandatory">cvl-mrf0_2_0</packagereq>
-      <packagereq type="mandatory">cvl-nn0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-mrf0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-nn0_2_3</packagereq>
       <packagereq type="mandatory">cvl-objexport0_0_1</packagereq>
       <packagereq type="mandatory">cvl-posgen0_0_1</packagereq>
-      <packagereq type="mandatory">cvl-posminus0_2_1</packagereq>
+      <packagereq type="mandatory">cvl-posminus0_2_2</packagereq>
       <packagereq type="mandatory">cvl-rdf-kd0_0_1</packagereq>
       <packagereq type="mandatory">cvl-r-launcher0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-sdm_1d_calculate2_0_1</packagereq>
+      <packagereq type="mandatory">cvl-sdm_1d_plot0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-sdm_2d_calculate2_0_1</packagereq>
+      <packagereq type="mandatory">cvl-sdm_2d_plot0_0_1</packagereq>
       <packagereq type="mandatory">cvl-xrngeditor0_0_1</packagereq>
     </packagelist>
   </group>
