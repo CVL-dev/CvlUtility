@@ -257,6 +257,7 @@
       <packagereq type="mandatory">cvl-virtualgl2_3_1</packagereq>
       <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
+      <packagereq type="mandatory">cvl-hpc1_0</packagereq>
       <packagereq type="mandatory">cvl-ftgl2_1_3</packagereq>
       <packagereq type="mandatory">cvl-glew1_5_5</packagereq>
       <packagereq type="mandatory">cvl-openmpi1_2_9</packagereq>
@@ -432,7 +433,7 @@
    <name>CVL Neuroimaging Driver</name>
    <description>Installs neuroimaging driver tools for Characterisation Virtual Laboratory</description>
     <packagelist>
-      <packagereq type="mandatory">cvl-fsl5_0_0</packagereq>
+      <packagereq type="mandatory">cvl-fsl5_0_4</packagereq>
       <packagereq type="mandatory">cvl-3dslicer4_2_2</packagereq>
       <packagereq type="mandatory">cvl-difftk0_6_2</packagereq>
       <packagereq type="mandatory">cvl-trackvis0_5_2</packagereq>
