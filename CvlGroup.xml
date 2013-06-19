@@ -258,14 +258,6 @@
       <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">cvl-hpc1_0</packagereq>
-      <packagereq type="mandatory">cvl-ftgl2_1_3</packagereq>
-      <packagereq type="mandatory">cvl-glew1_5_5</packagereq>
-      <packagereq type="mandatory">cvl-openmpi1_2_9</packagereq>
-      <packagereq type="mandatory">cvl-pil1_1_7</packagereq>
-      <packagereq type="mandatory">cvl-python2_6_8</packagereq>
-      <packagereq type="mandatory">cvl-qt4_6_2</packagereq>
-      <packagereq type="mandatory">cvl-wxgtk2_8_12</packagereq>
-      <packagereq type="mandatory">cvl-wxpython2_8_12_1</packagereq>
     </packagelist>
   </group>
         
