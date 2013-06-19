@@ -158,7 +158,7 @@
       <packagereq type="mandatory">python-setuptools</packagereq>
       <packagereq type="mandatory">libjpeg</packagereq>
       <packagereq type="mandatory">libXext-devel</packagereq>
-      <packagereq type="mandatory">google-chrome-stable</packagereq>
+      <packagereq type="mandatory">chromium</packagereq>
       <packagereq type="mandatory">pexpect</packagereq>
       <packagereq type="mandatory">zip</packagereq>
       <packagereq type="mandatory">unzip</packagereq>
