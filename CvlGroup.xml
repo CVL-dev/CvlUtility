@@ -415,6 +415,7 @@
       <packagereq type="mandatory">cvl-cvl-massive-preferences0_0_1</packagereq>
       <packagereq type="mandatory">cvl-pysshfs0_1</packagereq>
       <packagereq type="mandatory">cvl-visbenchmark1_0</packagereq>
+      <packagereq type="mandatory">cvl-keyutility1_0</packagereq>
     </packagelist>
   </group>
   <group>
