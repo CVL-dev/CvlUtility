@@ -401,6 +401,7 @@
       <packagereq type="mandatory">cvl-tiltpicker2_0b13</packagereq>
       <packagereq type="mandatory">cvl-vmd1_9_1</packagereq>
       <packagereq type="mandatory">cvl-xmipp3_0</packagereq>
+      <packagereq type="mandatory">cvl-pymol1_5_0_1</packagereq>
     </packagelist>
   </group>
   <group>
@@ -462,8 +463,10 @@
       <packagereq type="mandatory">cvl-emap-galaxy-shortcut0_0_1</packagereq>
       <packagereq type="mandatory">cvl-emap-wiki-shortcut0_0_1</packagereq>
       <packagereq type="mandatory">cvl-fouriertransform0_2_2</packagereq>
+      <packagereq type="mandatory">cvl-houghtransform0_0_1</packagereq>
       <packagereq type="mandatory">cvl-levelset0_0_2</packagereq>
       <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
+      <packagereq type="mandatory">cvl-mcbysro_simall0_2_0</packagereq>
       <packagereq type="mandatory">cvl-mrf0_2_1</packagereq>
       <packagereq type="mandatory">cvl-nn0_2_3</packagereq>
       <packagereq type="mandatory">cvl-objexport0_0_1</packagereq>
