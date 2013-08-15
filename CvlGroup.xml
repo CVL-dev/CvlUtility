@@ -445,6 +445,9 @@
       <packagereq type="mandatory">cvl-tissuestack1_1</packagereq>
       <packagereq type="mandatory">cvl-nipy0_3_0</packagereq>
       <packagereq type="mandatory">cvl-mni-autoreg0_99_60</packagereq>
+      <packagereq type="mandatory">cvl-register1_4_0</packagereq>
+      <packagereq type="mandatory">cvl-display1_5_1</packagereq>
+      <packagereq type="mandatory">cvl-bicpl1_4_6</packagereq>
     </packagelist>
   </group>
   <group>
