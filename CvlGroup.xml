@@ -229,6 +229,7 @@
       <packagereq type="mandatory">openssl098e</packagereq>
       <packagereq type="mandatory">nautilus-open-terminal</packagereq>
       <packagereq type="mandatory">neon</packagereq>
+      <packagereq type="mandatory">inotify-tools</packagereq>
     </packagelist>
   </group>
         
