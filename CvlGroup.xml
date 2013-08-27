@@ -230,6 +230,7 @@
       <packagereq type="mandatory">nautilus-open-terminal</packagereq>
       <packagereq type="mandatory">neon</packagereq>
       <packagereq type="mandatory">inotify-tools</packagereq>
+      <packagereq type="mandatory">bc</packagereq>
     </packagelist>
   </group>
         
