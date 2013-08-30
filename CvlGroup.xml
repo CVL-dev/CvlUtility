@@ -370,6 +370,7 @@
       <packagereq type="mandatory">freeglut-devel</packagereq>
       <packagereq type="mandatory">ImageMagick-c++-devel</packagereq>
       <packagereq type="mandatory">ImageMagick-devel</packagereq>
+      <packagereq type="mandatory">tk-devel</packagereq>
       <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">cvl-turbovnc1_2</packagereq>
