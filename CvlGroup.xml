@@ -231,6 +231,14 @@
       <packagereq type="mandatory">neon</packagereq>
       <packagereq type="mandatory">inotify-tools</packagereq>
       <packagereq type="mandatory">bc</packagereq>
+      <packagereq type="mandatory">nrpe</packagereq>
+      <packagereq type="mandatory">nagios-plugins</packagereq>
+      <packagereq type="mandatory">nagios-plugins-nrpe</packagereq>
+      <packagereq type="mandatory">nagios-plugins-disk</packagereq>
+      <packagereq type="mandatory">nagios-plugins-users</packagereq>
+      <packagereq type="mandatory">nagios-plugins-load</packagereq>
+      <packagereq type="mandatory">nagios-plugins-perl</packagereq>
+      <packagereq type="mandatory">perl-Time-HiRes</packagereq>
     </packagelist>
   </group>
         
