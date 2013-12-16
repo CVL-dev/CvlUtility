@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="4.0.7"
+PACKAGE_RELEASE="4.0.10"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -160,7 +160,7 @@ MenuDirectory="Help:/usr/local/cvl/1.0/icons/EmapIcons/48x48/CvlMenuEnergyMateri
 #
 # Multiple lines should be delimited by ";".
 #
-MenuDesktop="emap_access.sh:EMAP access information:dialog-information:false"
+MenuDesktop="bin/emap_access.sh:EMAP access information:dialog-information:false"
 
 #
 # Set library dependencies in following format (version is optional):
