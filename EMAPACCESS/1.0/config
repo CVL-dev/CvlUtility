@@ -10,7 +10,7 @@ ModuleFileDescription="Application"
 #
 # Package release number.
 #
-PACKAGE_RELEASE="4.0.10"
+PACKAGE_RELEASE="4.0.13"
 
 #
 # For source package, set it "ON", for binary package, set it "OFF".
@@ -41,7 +41,7 @@ SOURCE_BUILD_FLAG="ON"
 #
 # Source configure file.
 #
-CONFIGURE="emap_access_info.txt"
+CONFIGURE="readme.txt"
 
 #
 # Build configuration set up.
