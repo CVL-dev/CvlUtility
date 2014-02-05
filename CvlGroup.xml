@@ -504,6 +504,7 @@
       <packagereq type="mandatory">cvl-rdf-kd0_0_1</packagereq>
       <packagereq type="mandatory">cvl-r-launcher0_0_1</packagereq>
       <packagereq type="mandatory">cvl-sdm_1d_calculate2_0_2</packagereq>
+      <packagereq type="mandatory">cvl-sdm_1d_plot0_0_2</packagereq>
       <packagereq type="mandatory">cvl-sdm_2d_calculate2_0_2</packagereq>
       <packagereq type="mandatory">cvl-sdm_2d_plot0_0_2</packagereq>
       <packagereq type="mandatory">cvl-xrngeditor0_0_1</packagereq>
