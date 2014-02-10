@@ -491,7 +491,6 @@
       <packagereq type="mandatory">cvl-emap-mytardis-shortcut1_0_0</packagereq>
       <packagereq type="mandatory">cvl-emap-wiki-shortcut0_0_1</packagereq>
       <packagereq type="mandatory">cvl-fouriertransform0_2_3</packagereq>
-      <packagereq type="mandatory">cvl-houghtransform0_0_1</packagereq>
       <packagereq type="mandatory">cvl-levelset0_0_2</packagereq>
       <packagereq type="mandatory">cvl-mrf0_2_2</packagereq>
       <packagereq type="mandatory">cvl-nn0_2_4</packagereq>
