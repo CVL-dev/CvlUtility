@@ -485,8 +485,7 @@
       <packagereq type="mandatory">cvl-3daprecon0_0_1</packagereq>
       <packagereq type="mandatory">cvl-3depict0_0_15</packagereq>
       <packagereq type="mandatory">cvl-caw0_2_4</packagereq>
-      <packagereq type="mandatory">cvl-crystallography0_0_1</packagereq>
-      <packagereq type="mandatory">cvl-crystalshellcalcbcc0_2_0</packagereq>
+      <packagereq type="mandatory">cvl-crystallography0_0_3</packagereq>
       <packagereq type="mandatory">cvl-effoff0_2_1</packagereq>
       <packagereq type="mandatory">cvl-emap-galaxy-shortcut1_0_0</packagereq>
       <packagereq type="mandatory">cvl-emap-mytardis-shortcut1_0_0</packagereq>
@@ -494,20 +493,18 @@
       <packagereq type="mandatory">cvl-fouriertransform0_2_3</packagereq>
       <packagereq type="mandatory">cvl-houghtransform0_0_1</packagereq>
       <packagereq type="mandatory">cvl-levelset0_0_2</packagereq>
-      <packagereq type="mandatory">cvl-mcbysro_simall0_2_0</packagereq>
-      <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
       <packagereq type="mandatory">cvl-mrf0_2_2</packagereq>
       <packagereq type="mandatory">cvl-nn0_2_4</packagereq>
-      <packagereq type="mandatory">cvl-objexport0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-objexport0_0_4</packagereq>
       <packagereq type="mandatory">cvl-posgen0_0_1</packagereq>
       <packagereq type="mandatory">cvl-posminus0_2_3</packagereq>
       <packagereq type="mandatory">cvl-rdf-kd0_0_1</packagereq>
       <packagereq type="mandatory">cvl-r-launcher0_0_1</packagereq>
       <packagereq type="mandatory">cvl-sdm_1d_calculate2_0_2</packagereq>
-      <packagereq type="mandatory">cvl-sdm_1d_plot0_0_2</packagereq>
+      <packagereq type="mandatory">cvl-sdm_1d_plot0_0_4</packagereq>
       <packagereq type="mandatory">cvl-sdm_2d_calculate2_0_2</packagereq>
-      <packagereq type="mandatory">cvl-sdm_2d_plot0_0_2</packagereq>
-      <packagereq type="mandatory">cvl-xrngeditor0_0_1</packagereq>
+      <packagereq type="mandatory">cvl-sdm_2d_plot0_0_4</packagereq>
+      <packagereq type="mandatory">cvl-xrngeditor0_0_3</packagereq>
     </packagelist>
   </group>
   
