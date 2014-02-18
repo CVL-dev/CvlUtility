@@ -472,6 +472,7 @@
       <packagereq type="mandatory">cvl-register1_4_0</packagereq>
       <packagereq type="mandatory">cvl-display1_5_1</packagereq>
       <packagereq type="mandatory">cvl-bicpl1_4_6</packagereq>
+      <packagereq type="mandatory">cvl-ants1_9_4</packagereq>
     </packagelist>
   </group>
   <group>
@@ -492,6 +493,7 @@
       <packagereq type="mandatory">cvl-emap-wiki-shortcut0_0_1</packagereq>
       <packagereq type="mandatory">cvl-fouriertransform0_2_3</packagereq>
       <packagereq type="mandatory">cvl-levelset0_0_2</packagereq>
+      <packagereq type="mandatory">cvl-matlabr2012b</packagereq>
       <packagereq type="mandatory">cvl-mrf0_2_2</packagereq>
       <packagereq type="mandatory">cvl-nn0_2_4</packagereq>
       <packagereq type="mandatory">cvl-objexport0_0_4</packagereq>
