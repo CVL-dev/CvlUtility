@@ -285,6 +285,7 @@
       <packagereq type="mandatory">cvl-qt4_8_2</packagereq>
       <packagereq type="mandatory">cvl-qtkeychain4_0_0</packagereq>
       <packagereq type="mandatory">cvl-owncloud1_5_2</packagereq>
+      <packagereq type="mandatory">cvl-rproject3_0_2</packagereq>
     </packagelist>
   </group>
         
