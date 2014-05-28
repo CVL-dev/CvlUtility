@@ -472,13 +472,15 @@
       <packagereq type="mandatory">cvl-netcdf4_1_1</packagereq>
       <packagereq type="mandatory">cvl-nifticlib2_0_0</packagereq>
       <packagereq type="mandatory">cvl-minc2_1_0</packagereq>
-      <packagereq type="mandatory">cvl-tissuestack1_3</packagereq>
+      <packagereq type="mandatory">cvl-tissuestack1_4</packagereq>
       <packagereq type="mandatory">cvl-nipy0_3_0</packagereq>
       <packagereq type="mandatory">cvl-mni-autoreg0_99_60</packagereq>
       <packagereq type="mandatory">cvl-register1_4_0</packagereq>
       <packagereq type="mandatory">cvl-display1_5_1</packagereq>
       <packagereq type="mandatory">cvl-bicpl1_4_6</packagereq>
       <packagereq type="mandatory">cvl-ants1_9_4</packagereq>
+      <packagereq type="mandatory">cvl-kepler2_4</packagereq>
+      <packagereq type="mandatory">cvl-nimrod3_4</packagereq>
     </packagelist>
   </group>
   <group>
