@@ -11,7 +11,7 @@
    <description>Installs a set of standard Centos packages for the Characterisation Virtual Laboratory</description>
     <packagelist>
       <packagereq type="mandatory">epel-release</packagereq>
-      <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
+      <packagereq type="mandatory">cvl-modules3_2_10</packagereq>
     </packagelist>
   </group>
 
@@ -259,7 +259,7 @@
    <name>CVL System</name>
    <description>Installs CVL desktop system</description>
     <packagelist>
-      <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
+      <packagereq type="mandatory">cvl-modules3_2_10</packagereq>
     </packagelist>
   </group>
 
@@ -398,7 +398,7 @@
       <packagereq type="mandatory">ImageMagick-c++-devel</packagereq>
       <packagereq type="mandatory">ImageMagick-devel</packagereq>
       <packagereq type="mandatory">tk-devel</packagereq>
-      <packagereq type="mandatory">cvl-modules3_2_9</packagereq>
+      <packagereq type="mandatory">cvl-modules3_2_10</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">cvl-turbovnc1_2</packagereq>
       <packagereq type="mandatory">cvl-masterbuild2_8_10</packagereq>
