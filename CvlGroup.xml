@@ -278,6 +278,7 @@
       <packagereq type="mandatory">cvl-openmpi1_6_1</packagereq>
       <packagereq type="mandatory">cvl-cvl1_0</packagereq>
       <packagereq type="mandatory">cvl-hpc1_0</packagereq>
+      <packagereq type="mandatory">cvl-cvlhpc1_0_0</packagereq>
       <packagereq type="mandatory">cvl-cvl-massive-preferences0_0_1</packagereq>
       <packagereq type="mandatory">cvl-pysshfs0_1</packagereq>
       <packagereq type="mandatory">cvl-visbenchmark1_0</packagereq>
@@ -419,7 +420,8 @@
       <packagereq type="mandatory">cvl-chimera1_7</packagereq>
       <packagereq type="mandatory">cvl-eman1_9</packagereq>
       <packagereq type="mandatory">cvl-eman2_06</packagereq>
-      <packagereq type="mandatory">cvl-fijimadison</packagereq>
+      <packagereq type="mandatory">cvl-fijilife_line_20140602</packagereq>
+      <packagereq type="mandatory">cvl-fijicontinuous_release</packagereq>
       <packagereq type="mandatory">cvl-hpc-tools0_0_4</packagereq>
       <packagereq type="mandatory">cvl-imagej1_46</packagereq>
       <packagereq type="mandatory">cvl-imagic1_0</packagereq>
@@ -445,7 +447,8 @@
     <packagelist>
       <packagereq type="mandatory">cvl-imagej1_46</packagereq>
       <packagereq type="mandatory">cvl-imagic1_0</packagereq>
-      <packagereq type="mandatory">cvl-fijimadison</packagereq>
+      <packagereq type="mandatory">cvl-fijilife_line_20140602</packagereq>
+      <packagereq type="mandatory">cvl-fijicontinuous_release</packagereq>
       <packagereq type="mandatory">cvl-huygens4_4_0p8</packagereq>
     </packagelist>
   </group>
@@ -481,6 +484,7 @@
       <packagereq type="mandatory">cvl-ants1_9_4</packagereq>
       <packagereq type="mandatory">cvl-kepler2_4</packagereq>
       <packagereq type="mandatory">cvl-nimrod3_4</packagereq>
+      <packagereq type="mandatory">cvl-cvl_neuro1_0_0</packagereq>
     </packagelist>
   </group>
   <group>
