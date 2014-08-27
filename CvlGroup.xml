@@ -449,7 +449,7 @@
       <packagereq type="mandatory">cvl-imagic1_0</packagereq>
       <packagereq type="mandatory">cvl-fijilife_line_20140602</packagereq>
       <packagereq type="mandatory">cvl-fijicontinuous_release</packagereq>
-      <packagereq type="mandatory">cvl-huygens4_4_0p8</packagereq>
+      <packagereq type="mandatory">cvl-huygens14_06_1p2</packagereq>
     </packagelist>
   </group>
   <group>
@@ -483,7 +483,8 @@
       <packagereq type="mandatory">cvl-bicpl1_4_6</packagereq>
       <packagereq type="mandatory">cvl-ants1_9_4</packagereq>
       <packagereq type="mandatory">cvl-kepler2_4</packagereq>
-      <packagereq type="mandatory">cvl-nimrod3_4</packagereq>
+      <packagereq type="mandatory">cvl-nimrod4_0_0</packagereq>
+      <packagereq type="mandatory">cvl-nimrod_k2_0_0</packagereq>
       <packagereq type="mandatory">cvl-cvl_neuro1_0_0</packagereq>
     </packagelist>
   </group>
