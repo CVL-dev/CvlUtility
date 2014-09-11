@@ -248,6 +248,7 @@
       <packagereq type="mandatory">php-mysql</packagereq>
       <packagereq type="mandatory">mod_ssl</packagereq>
       <packagereq type="mandatory">mysql-server</packagereq>
+      <packagereq type="mandatory">python-paramiko</packagereq>
     </packagelist>
   </group>
         
@@ -484,7 +485,7 @@
       <packagereq type="mandatory">cvl-ants1_9_4</packagereq>
       <packagereq type="mandatory">cvl-kepler2_4</packagereq>
       <packagereq type="mandatory">cvl-nimrod4_0_0</packagereq>
-      <packagereq type="mandatory">cvl-nimrod_k2_0_0</packagereq>
+      <packagereq type="mandatory">cvl_nimrod_k2_0_1</packagereq>
       <packagereq type="mandatory">cvl-cvl_neuro1_0_0</packagereq>
     </packagelist>
   </group>
