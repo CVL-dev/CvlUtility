@@ -201,7 +201,7 @@
       <packagereq type="mandatory">enchant</packagereq>
       <packagereq type="mandatory">gedit</packagereq>
       <packagereq type="mandatory">gtksourceview2</packagereq>
-      <packagereq type="mandatory">java-1.6.0-openjdk</packagereq>
+      <packagereq type="mandatory">java-1.7.0-openjdk</packagereq>
       <packagereq type="mandatory">jline</packagereq>
       <packagereq type="mandatory">libICE</packagereq>
       <packagereq type="mandatory">libSM</packagereq>
@@ -249,6 +249,7 @@
       <packagereq type="mandatory">mod_ssl</packagereq>
       <packagereq type="mandatory">mysql-server</packagereq>
       <packagereq type="mandatory">python-paramiko</packagereq>
+      <packagereq type="mandatory"></packagereq>
     </packagelist>
   </group>
         
@@ -520,6 +521,7 @@
       <packagereq type="mandatory">cvl-sdm_2d_calculate2_0_2</packagereq>
       <packagereq type="mandatory">cvl-sdm_2d_plot0_0_4</packagereq>
       <packagereq type="mandatory">cvl-xrngeditor0_0_3</packagereq>
+      <packagereq type="mandatory">cvl-feedback1_0_1</packagereq>
     </packagelist>
   </group>
   
