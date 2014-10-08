@@ -422,8 +422,6 @@
       <packagereq type="mandatory">cvl-chimera1_7</packagereq>
       <packagereq type="mandatory">cvl-eman1_9</packagereq>
       <packagereq type="mandatory">cvl-eman2_06</packagereq>
-      <packagereq type="mandatory">cvl-fijilife_line_20140602</packagereq>
-      <packagereq type="mandatory">cvl-fijicontinuous_release</packagereq>
       <packagereq type="mandatory">cvl-hpc-tools0_0_4</packagereq>
       <packagereq type="mandatory">cvl-imagej1_46</packagereq>
       <packagereq type="mandatory">cvl-imagic1_0</packagereq>
@@ -452,6 +450,11 @@
       <packagereq type="mandatory">cvl-fijilife_line_20140602</packagereq>
       <packagereq type="mandatory">cvl-fijicontinuous_release</packagereq>
       <packagereq type="mandatory">cvl-huygens14_06_1p2</packagereq>
+      <packagereq type="mandatory">cvl-gmp6_0_0a</packagereq>
+      <packagereq type="mandatory">cvl-mpfr3_1_2</packagereq>
+      <packagereq type="mandatory">cvl-mpc1_0_2</packagereq>
+      <packagereq type="mandatory">cvl-gcc4_9_1</packagereq>
+      <packagereq type="mandatory">cvl-simplerelease2</packagereq>
     </packagelist>
   </group>
   <group>
@@ -522,6 +525,7 @@
       <packagereq type="mandatory">cvl-sdm_2d_plot0_0_4</packagereq>
       <packagereq type="mandatory">cvl-xrngeditor0_0_3</packagereq>
       <packagereq type="mandatory">cvl-feedback1_0_1</packagereq>
+      <packagereq type="mandatory">cvl-atomprobedevcode1_0_0</packagereq>
     </packagelist>
   </group>
   
