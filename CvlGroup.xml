@@ -104,7 +104,6 @@
       <packagereq type="mandatory">xorg-x11-server-utils</packagereq>
       <packagereq type="mandatory">xorg-x11-utils</packagereq>
       <packagereq type="mandatory">xvattr</packagereq>
-      <packagereq type="mandatory">NetworkManager-gnome</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
       <packagereq type="mandatory">leafpad</packagereq>
       <packagereq type="mandatory">openssh-askpass</packagereq>
@@ -249,7 +248,6 @@
       <packagereq type="mandatory">mod_ssl</packagereq>
       <packagereq type="mandatory">mysql-server</packagereq>
       <packagereq type="mandatory">python-paramiko</packagereq>
-      <packagereq type="mandatory"></packagereq>
     </packagelist>
   </group>
         
@@ -480,7 +478,7 @@
       <packagereq type="mandatory">cvl-netcdf4_1_1</packagereq>
       <packagereq type="mandatory">cvl-nifticlib2_0_0</packagereq>
       <packagereq type="mandatory">cvl-minc2_1_0</packagereq>
-      <packagereq type="mandatory">cvl-tissuestack1_4</packagereq>
+      <packagereq type="mandatory">cvl-tissuestack1_5</packagereq>
       <packagereq type="mandatory">cvl-nipy0_3_0</packagereq>
       <packagereq type="mandatory">cvl-mni-autoreg0_99_60</packagereq>
       <packagereq type="mandatory">cvl-register1_4_0</packagereq>
