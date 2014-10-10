@@ -81,10 +81,6 @@
       <packagereq type="mandatory">openmotif</packagereq>
       <packagereq type="mandatory">python-pmw</packagereq>
       <packagereq type="mandatory">hdf</packagereq>
-      <packagereq type="mandatory">hdf5</packagereq>
-      <packagereq type="mandatory">freeglut</packagereq>
-      <packagereq type="mandatory">ImageMagick</packagereq>
-      <packagereq type="mandatory">ImageMagick-c++</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">yum-utils</packagereq>
       <packagereq type="mandatory">fuse-sshfs</packagereq>
@@ -147,12 +143,10 @@
       <packagereq type="mandatory">fltk</packagereq>
       <packagereq type="mandatory">gettext-libs</packagereq>
       <packagereq type="mandatory">gettext</packagereq>
-      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
       <packagereq type="mandatory">xorg-x11-util-macros</packagereq>
       <packagereq type="mandatory">libXinerama</packagereq>
       <packagereq type="mandatory">libdrm</packagereq>
       <packagereq type="mandatory">tk</packagereq>
-      <packagereq type="mandatory">wxPython</packagereq>
       <packagereq type="mandatory">python-devel</packagereq>
       <packagereq type="mandatory">python-setuptools</packagereq>
       <packagereq type="mandatory">libjpeg</packagereq>
@@ -172,7 +166,6 @@
       <packagereq type="mandatory">unixODBC</packagereq>
       <packagereq type="mandatory">giflib</packagereq>
       <packagereq type="mandatory">wxGTK-gl</packagereq>
-      <packagereq type="mandatory">wxPython</packagereq>
       <packagereq type="mandatory">wxGTK-media</packagereq>
       <packagereq type="mandatory">wxpropgrid</packagereq>
       <packagereq type="mandatory">wxBase</packagereq>
@@ -186,14 +179,11 @@
       <packagereq type="mandatory">libxml2</packagereq>
       <packagereq type="mandatory">ftgl</packagereq>
       <packagereq type="mandatory">qhull</packagereq>
-      <packagereq type="mandatory">mathgl</packagereq>
       <packagereq type="mandatory">qt-sqlite</packagereq>
       <packagereq type="mandatory">qt</packagereq>
       <packagereq type="mandatory">qt-x11</packagereq>
       <packagereq type="mandatory">qt3</packagereq>
       <packagereq type="mandatory">hdf</packagereq>
-      <packagereq type="mandatory">hdf5</packagereq>
-      <packagereq type="mandatory">freeglut</packagereq>
       <packagereq type="mandatory">ImageMagick</packagereq>
       <packagereq type="mandatory">ImageMagick-c++</packagereq>
       <packagereq type="mandatory">atlas</packagereq>
@@ -381,7 +371,6 @@
       <packagereq type="mandatory">gettext-devel</packagereq>
       <packagereq type="mandatory">gettext-libs</packagereq>
       <packagereq type="mandatory">gettext</packagereq>
-      <packagereq type="mandatory">xorg-x11-font-utils</packagereq>
       <packagereq type="mandatory">xorg-x11-util-macros</packagereq>
       <packagereq type="mandatory">pixman-devel</packagereq>
       <packagereq type="mandatory">openmotif-devel</packagereq>
