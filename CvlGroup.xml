@@ -478,6 +478,7 @@
       <packagereq type="mandatory">cvl-nimrod4_0_0</packagereq>
       <packagereq type="mandatory">cvl_nimrod_k2_0_1</packagereq>
       <packagereq type="mandatory">cvl-cvl_neuro1_0_0</packagereq>
+      <packagereq type="mandatory">cvl-daris-integration0_9_14</packagereq>
     </packagelist>
   </group>
   <group>
