@@ -467,7 +467,7 @@
       <packagereq type="mandatory">cvl-netcdf4_1_1</packagereq>
       <packagereq type="mandatory">cvl-nifticlib2_0_0</packagereq>
       <packagereq type="mandatory">cvl-minc2_1_0</packagereq>
-      <packagereq type="mandatory">cvl-tissuestack1_5</packagereq>
+      <packagereq type="mandatory">cvl-tissuestack1_6</packagereq>
       <packagereq type="mandatory">cvl-nipy0_3_0</packagereq>
       <packagereq type="mandatory">cvl-mni-autoreg0_99_60</packagereq>
       <packagereq type="mandatory">cvl-register1_4_0</packagereq>
