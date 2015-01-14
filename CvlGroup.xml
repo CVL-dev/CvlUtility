@@ -23,6 +23,26 @@
    <name>CVL Base Packages</name>
    <description>Installs a set of standard Centos packages for the Characterisation Virtual Laboratory</description>
     <packagelist>
+      <packagereq type="mandatory">PyGreSQL</packagereq>
+      <packagereq type="mandatory">babel</packagereq>
+      <packagereq type="mandatory">db4-cxx</packagereq>
+      <packagereq type="mandatory">db4-devel</packagereq>
+      <packagereq type="mandatory">dejavu-sans-fonts</packagereq>
+      <packagereq type="mandatory">gdbm-devel</packagereq>
+      <packagereq type="mandatory">gtkglext-libs</packagereq>
+      <packagereq type="mandatory">perl-ExtUtils-MakeMaker</packagereq>
+      <packagereq type="mandatory">perl-ExtUtils-ParseXS</packagereq>
+      <packagereq type="mandatory">perl-Test-Harness</packagereq>
+      <packagereq type="mandatory">perl-devel</packagereq>
+      <packagereq type="mandatory">postgresql</packagereq>
+      <packagereq type="mandatory">postgresql-libs</packagereq>
+      <packagereq type="mandatory">postgresql-server</packagereq>
+      <packagereq type="mandatory">python-babel</packagereq>
+      <packagereq type="mandatory">python-dateutil</packagereq>
+      <packagereq type="mandatory">python-matplotlib</packagereq>
+      <packagereq type="mandatory">pytz</packagereq>
+      <packagereq type="mandatory">uuid</packagereq>
+      <packagereq type="mandatory">tcsh</packagereq>
       <packagereq type="mandatory">libX11</packagereq>
       <packagereq type="mandatory">libXaw</packagereq>
       <packagereq type="mandatory">libXpm</packagereq>
@@ -238,6 +258,7 @@
       <packagereq type="mandatory">mod_ssl</packagereq>
       <packagereq type="mandatory">mysql-server</packagereq>
       <packagereq type="mandatory">python-paramiko</packagereq>
+      <packagereq type="mandatory">glibc</packagereq>
     </packagelist>
   </group>
         
