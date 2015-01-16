@@ -463,6 +463,7 @@
       <packagereq type="mandatory">cvl-mpc1_0_2</packagereq>
       <packagereq type="mandatory">cvl-gcc4_9_1</packagereq>
       <packagereq type="mandatory">cvl-simplerelease2</packagereq>
+      <packagereq type="mandatory">cvl-gnuplot5_0_0</packagereq>
     </packagelist>
   </group>
   <group>
