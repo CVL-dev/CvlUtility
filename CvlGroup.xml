@@ -23,6 +23,11 @@
    <name>CVL Base Packages</name>
    <description>Installs a set of standard Centos packages for the Characterisation Virtual Laboratory</description>
     <packagelist>
+      <packagereq type="mandatory">python-psycopg2</packagereq>
+      <packagereq type="mandatory">postgresql-devel</packagereq>
+      <packagereq type="mandatory">postgresql-contrib</packagereq>
+      <packagereq type="mandatory">perl-HTML-Parser</packagereq>
+      <packagereq type="mandatory">perl-HTML-Tagset</packagereq>
       <packagereq type="mandatory">PyGreSQL</packagereq>
       <packagereq type="mandatory">babel</packagereq>
       <packagereq type="mandatory">db4-cxx</packagereq>
@@ -300,6 +305,7 @@
       <packagereq type="mandatory">cvl-rproject3_0_2</packagereq>
       <packagereq type="mandatory">cvl-boost1_54_0</packagereq>
       <packagereq type="mandatory">cvl-rstudio0_98_497</packagereq>
+      <packagereq type="mandatory">cvl-libcerf1_3</packagereq>
     </packagelist>
   </group>
         
